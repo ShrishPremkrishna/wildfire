@@ -1,6 +1,6 @@
 ---
-title: "A Minimal Book Example"
-author: "Yihui Xie"
+title: "What factors influence the rate at which wildfires occur?"
+author: "Hugo Cortez, Laine XXX, Ecem XXX, Shrish Premkrishna"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -9,24 +9,10 @@ bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: rstudio/bookdown-demo
-description: "This is a minimal example of using the bookdown package to write a book. The output format for this example is bookdown::gitbook."
+description: "  Wildfires kill a large number of animals and destroy habitats. These species and their habitats need to be protected, so it is important to question the root cause of wildfires."
 ---
 
-# Prerequisites
-
-This is a *sample* book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
-
-The **bookdown** package can be installed from CRAN or Github:
-
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
-
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
-
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
+# : Background Information
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages
@@ -34,3 +20,27 @@ knitr::write_bib(c(
   .packages(), 'bookdown', 'knitr', 'rmarkdown'
 ), 'packages.bib')
 ```
+
+## Wildfires: 
+
+### What are Wildfires?
+
+Wildfires are uncontrolled fires that burn off vegetation. They are a natural part of the ecosystem, but in recent years, have become extremely destructive, causing damage to habitats, homes, and humans.
+
+### Why are Wildfires Important?
+
+Wildfires currently have a bad reputation, but it is not their fault. In a ideal natural environment, wildfires are key for nutrient cycling, forest regeneration, and ecological balance.
+
+### Wildfires in Recent Years:
+
+In recent years, wildfires have changed from an essential part of our ecosystems to unnatural and destructive disasters. Increasingly, the causes of wildfires are from humans, whether its from a gender reveal party gone wrong, or a cigarette thrown away to early. Due to exacerbated conditions from climate change, these mundane causes lead to humongous fires that burn down entire forests and cities. The rate of wildfires are also increasing, and wildfire season is becoming a common term.
+
+### How do Wildfires Relate to Climate Change?
+
+Climate change is increasing the frequency and severity of wildfires. Rising temperatures and prolonged droughts create drier conditions, making it easier for wildfires to start and spread. This contributes to larger, more intense fires that pose greater risks to communities and ecosystems. Climate change exacerbates wildfires, making them more frequent and harder to control.
+
+## This Project : 
+
+## Preliminary Code and Data
+
+##  
