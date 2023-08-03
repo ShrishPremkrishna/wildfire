@@ -7,3 +7,15 @@ Some _significant_ applications are demonstrated in this chapter.
 hugo is the best
 
 ## Example two
+
+sample_df <- data.frame(`2022`  = c(12,12,3,4,5),
+                        `2023` = c(13,4,5,6,1))
+library(magrittr)
+library(dplyr)
+sample_df %<>%
+  summarise(tot_2022 = sum(X2022))
+
+View(sample_df)
+
+sample_df %<>%
+  summarise_at(vars(X2022, X2023), sum)
