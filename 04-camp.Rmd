@@ -4,4 +4,6 @@ Some _significant_ applications are demonstrated in this chapter.
 
 ## Example one
 
+hugo is the best
+
 ## Example two
