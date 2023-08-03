@@ -21,7 +21,7 @@ knitr::write_bib(c(
 ), 'packages.bib')
 ```
 
-## Wildfires: 
+## Wildfires:
 
 ### What are Wildfires?
 
@@ -33,14 +33,14 @@ Wildfires currently have a bad reputation, but it is not their fault. In a ideal
 
 ### Wildfires in Recent Years:
 
-In recent years, wildfires have changed from an essential part of our ecosystems to unnatural and destructive disasters. Increasingly, the causes of wildfires are from humans, whether its from a gender reveal party gone wrong, or a cigarette thrown away to early. Due to exacerbated conditions from climate change, these mundane causes lead to humongous fires that burn down entire forests and cities. The rate of wildfires are also increasing, and wildfire season is becoming a common term.
+In recent years, wildfires have changed from an essential part of our ecosystems to unnatural and destructive disasters. Increasingly, the causes of wildfires are from humans, whether its from a gender reveal party gone wrong, or a cigarette thrown away to early. Due to exacerbated conditions from climate change, these mundane causes lead to humongous fires that burn down entire forests and cities. The rate of wildfires are also increasing, and wildfire season is becoming a common term. I am writing this here
 
 ### How do Wildfires Relate to Climate Change?
 
 Climate change is increasing the frequency and severity of wildfires. Rising temperatures and prolonged droughts create drier conditions, making it easier for wildfires to start and spread. This contributes to larger, more intense fires that pose greater risks to communities and ecosystems. Climate change exacerbates wildfires, making them more frequent and harder to control.
 
-## This Project : 
+## This Project :
 
 ## Preliminary Code and Data
 
-##  
+## 
