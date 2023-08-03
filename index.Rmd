@@ -25,7 +25,7 @@ knitr::write_bib(c(
 
 ### What are Wildfires?
 
-Wildfires are uncontrolled fires that burn off vegetation. They are a natural part of the ecosystem, but in recent years, have become extremely destructive, causing damage to habitats, homes, and humans.
+Wildfires are uncontrolled fires that burn off vegetation. They are a natural part of the ecosystem, but in recent years, have become extremely destructive, causing damage to habitats, homes, and humans.Wildifres suck
 
 ### Why are Wildfires Important?
 
